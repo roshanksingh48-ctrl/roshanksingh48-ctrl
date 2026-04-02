@@ -38,6 +38,8 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
+---
+
 ## 🔥 Top Languages
 
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
