@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Roshan Singh
 
-<!--
-**roshanksingh48-ctrl/roshanksingh48-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | Passionate about Web Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎯 I am a Frontend Developer
+- 🌱 Currently learning advanced React concepts
+- 💡 Love to build responsive and user-friendly websites
+- 📫 Reach me at: your-email@example.com
+
+---
+
+## 🛠️ Skills
+
+### 💻 Frontend
+- HTML5  
+- CSS3  
+- JavaScript  
+- React.js  
+- Tailwind CSS  
+
+---
+
+## ⚡ Tools & Technologies
+- Git & GitHub  
+- VS Code  
+- Chrome DevTools  
+
+---
+
+## 📊 GitHub Stats
+![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect with me
+- LinkedIn: https://www.linkedin.com/in/roshan-kushwaha-3a526a336
+- Portfolio: your-portfolio-link
