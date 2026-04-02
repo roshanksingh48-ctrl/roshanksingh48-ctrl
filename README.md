@@ -8,7 +8,7 @@
 - 🎯 I am a Frontend Developer
 - 🌱 Currently learning advanced React concepts
 - 💡 Love to build responsive and user-friendly websites
-- 📫 Reach me at: your-roshanksingh48@gmail.com.com
+- 📫 Reach me at: your-roshanksingh48@gmail.com
 
 ---
 
